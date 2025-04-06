@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Oh-liveira
+## Bem-vindo(a) ao perfil de oh-liveira
 
  <div>
-   <a href="https://github.com/Oh-liveira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oh-liveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-liveira&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/oh-liveira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oh-liveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-liveira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -13,3 +13,6 @@
 </div>
  
 <br>
+<div> 
+ <a href="https://www.instagram.com/oh_liveira?igsh=MWIxODJpMHE2bG1nYw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
